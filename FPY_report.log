@@ -1,0 +1,1907 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5 NEXT) (preloaded format=pdflatex 2026.7.16)  16 JUL 2026 09:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./FPY_report.tex
+(FPY_report.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks20
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
+\ttl@toksa=\toks21
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip53
+\cftbeforetoctitleskip=\skip54
+\cftaftertoctitleskip=\skip55
+\cftbeforepartskip=\skip56
+\cftpartnumwidth=\skip57
+\cftpartindent=\skip58
+\cftbeforechapskip=\skip59
+\cftchapindent=\skip60
+\cftchapnumwidth=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\c@lofdepth=\count288
+\c@lotdepth=\count289
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip87
+\f@nch@offset@elh=\skip88
+\f@nch@offset@erh=\skip89
+\f@nch@offset@olh=\skip90
+\f@nch@offset@orh=\skip91
+\f@nch@offset@elf=\skip92
+\f@nch@offset@erf=\skip93
+\f@nch@offset@olf=\skip94
+\f@nch@offset@orf=\skip95
+\f@nch@height=\skip96
+\f@nch@footalignment=\skip97
+\f@nch@widthL=\skip98
+\f@nch@widthC=\skip99
+\f@nch@widthR=\skip100
+\@temptokenb=\toks22
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count290
+) (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count291
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen166
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+ (C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count295
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen167
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count296
+\Field@Width=\dimen168
+\Fld@charsize=\dimen169
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-06-17 v7.01r Hyperref driver for pdfTeX
+
+
+! Package hyperref Error: Version mismatch!
+(hyperref)                * 2025-07-12 v7.01o: hyperref.sty
+(hyperref)                * 2026-06-17 v7.01r: hpdftex.def.
+
+See the hyperref package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \Hy@VersionCheck{hpdftex.def}
+                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip101
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count302
+\c@continuedfloat=\count303
+Package caption Info: hyperref package is loaded.
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen178
+\lightrulewidth=\dimen179
+\cmidrulewidth=\dimen180
+\belowrulesep=\dimen181
+\belowbottomsep=\dimen182
+\aboverulesep=\dimen183
+\abovetopsep=\dimen184
+\cmidrulesep=\dimen185
+\cmidrulekern=\dimen186
+\defaultaddspace=\dimen187
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen188
+\@belowrulesep=\dimen189
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen190
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
+\LTleft=\skip102
+\LTright=\skip103
+\LTpre=\skip104
+\LTpost=\skip105
+\LTchunksize=\count308
+\LTcapwidth=\dimen191
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count309
+\LT@rows=\count310
+\c@LT@tables=\count311
+\c@LT@chunks=\count312
+\LT@p@ftn=\toks23
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip106
+\enit@outerparindent=\dimen192
+\enit@toks=\toks24
+\enit@inbox=\box59
+\enit@count@id=\count313
+\enitdp@description=\count314
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2026-05-15 v3.5.5 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count315
+\l__siunitx_number_exponent_fixed_int=\count316
+\l__siunitx_number_min_decimal_int=\count317
+\l__siunitx_number_min_integer_int=\count318
+\l__siunitx_number_round_precision_int=\count319
+\l__siunitx_number_lower_threshold_int=\count320
+\l__siunitx_number_upper_threshold_int=\count321
+\l__siunitx_number_group_first_int=\count322
+\l__siunitx_number_group_size_int=\count323
+\l__siunitx_number_group_min_int=\count324
+\l__siunitx_number_group_minimum_int=\count325
+\l__siunitx_compound_count_int=\count326
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/translations\translation
+s.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen193
+))
+\l__siunitx_table_tmp_box=\box60
+\l__siunitx_table_tmp_dim=\dimen194
+\l__siunitx_table_column_width_dim=\dimen195
+\l__siunitx_table_integer_box=\box61
+\l__siunitx_table_decimal_box=\box62
+\l__siunitx_table_uncert_box=\box63
+\l__siunitx_table_before_box=\box64
+\l__siunitx_table_after_box=\box65
+\l__siunitx_table_before_dim=\dimen196
+\l__siunitx_table_carry_dim=\dimen197
+\l__siunitx_unit_tmp_int=\count327
+\l__siunitx_unit_position_int=\count328
+\l__siunitx_unit_total_int=\count329
+\l__siunitx_sexagesimal_tmp_dim=\dimen198
+\l__siunitx_sexagesimal_marker_box=\box66
+\l__siunitx_sexagesimal_unit_box=\box67
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen199
+\ar@mcellbox=\box68
+\extrarowheight=\dimen256
+\NC@list=\toks26
+\extratabsurround=\skip107
+\backup@length=\skip108
+\ar@cellbox=\box69
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen257
+\pgfutil@tempdimb=\dimen258
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box70
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen259
+\pgf@y=\dimen260
+\pgf@xa=\dimen261
+\pgf@ya=\dimen262
+\pgf@xb=\dimen263
+\pgf@yb=\dimen264
+\pgf@xc=\dimen265
+\pgf@yc=\dimen266
+\pgf@xd=\dimen267
+\pgf@yd=\dimen268
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count330
+\c@pgf@countb=\count331
+\c@pgf@countc=\count332
+\c@pgf@countd=\count333
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count334
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count335
+\pgfsyssoftpath@bigbuffer@items=\count336
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen269
+\pgfmath@count=\count337
+\pgfmath@box=\box71
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count338
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen270
+\pgf@picmaxx=\dimen271
+\pgf@picminy=\dimen272
+\pgf@picmaxy=\dimen273
+\pgf@pathminx=\dimen274
+\pgf@pathmaxx=\dimen275
+\pgf@pathminy=\dimen276
+\pgf@pathmaxy=\dimen277
+\pgf@xx=\dimen278
+\pgf@xy=\dimen279
+\pgf@yx=\dimen280
+\pgf@yy=\dimen281
+\pgf@zx=\dimen282
+\pgf@zy=\dimen283
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen284
+\pgf@path@lasty=\dimen285
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen286
+\pgf@shorten@start@additional=\dimen287
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box72
+\pgf@hbox=\box73
+\pgf@layerbox@main=\box74
+\pgf@picture@serial@count=\count339
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen288
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen289
+\pgf@pt@y=\dimen290
+\pgf@pt@temp=\dimen291
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen292
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen293
+\pgf@sys@shading@range@num=\count340
+\pgf@shadingcount=\count341
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box75
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box76
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen294
+\pgf@nodesepend=\dimen295
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen296
+\pgffor@skip=\dimen297
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count342
+\pgfplotmarksize=\dimen298
+)
+\tikz@lastx=\dimen299
+\tikz@lasty=\dimen300
+\tikz@lastxsaved=\dimen301
+\tikz@lastysaved=\dimen302
+\tikz@lastmovetox=\dimen303
+\tikz@lastmovetoy=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count343
+\tikznumberofchildren=\count344
+\tikznumberofcurrentchild=\count345
+\tikz@fig@count=\count346
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count347
+\pgfmatrixcurrentcolumn=\count348
+\pgf@matrix@numberofcolumns=\count349
+)
+\tikz@expandcount=\count350
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.callouts.code.tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\p
+gflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodepartlowerbox=\box81
+\pgfnodeparttwobox=\box82
+\pgfnodepartthreebox=\box83
+\pgfnodepartfourbox=\box84
+\pgfnodeparttwentybox=\box85
+\pgfnodepartnineteenbox=\box86
+\pgfnodeparteighteenbox=\box87
+\pgfnodepartseventeenbox=\box88
+\pgfnodepartsixteenbox=\box89
+\pgfnodepartfifteenbox=\box90
+\pgfnodepartfourteenbox=\box91
+\pgfnodepartthirteenbox=\box92
+\pgfnodeparttwelvebox=\box93
+\pgfnodepartelevenbox=\box94
+\pgfnodeparttenbox=\box95
+\pgfnodepartninebox=\box96
+\pgfnodeparteightbox=\box97
+\pgfnodepartsevenbox=\box98
+\pgfnodepartsixbox=\box99
+\pgfnodepartfivebox=\box100
+)))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen307
+\pgfarrowlength=\dimen308
+\pgfarrowwidth=\dimen309
+\pgfarrowlinewidth=\dimen310
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduled
+ecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen311
+\pgfdecoratedremainingdistance=\dimen312
+\pgfdecoratedinputsegmentcompleteddistance=\dimen313
+\pgfdecoratedinputsegmentremainingdistance=\dimen314
+\pgf@decorate@distancetomove=\dimen315
+\pgf@decorate@repeatstate=\count351
+\pgfdecorationsegmentamplitude=\dimen316
+\pgfdecorationsegmentlength=\dimen317
+)
+\tikz@lib@dec@box=\box101
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
+ons\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.st
+y
+Package: circuitikz 2026/05/24{} The CircuiTikz circuit drawing package version
+ 1.8.6
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleb
+ending.code.tex
+File: pgfmodulebending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulen
+onlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgftransformnonlinearflatness=\dimen318
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+rycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@curvilinear@time@a=\dimen319
+\pgf@curvilinear@length@a=\dimen320
+\pgf@curvilinear@length@b=\dimen321
+\pgf@curvilinear@length@c=\dimen322
+\pgf@curvilinear@length@d=\dimen323
+)
+\pgf@arrows@the@rigidity=\dimen324
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryfpu.code.tex
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryfpu.code.tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.def
+ines.tex
+\pgf@circ@count@a=\count352
+\pgf@circ@count@b=\count353
+\pgf@circ@count@c=\count354
+\pgf@circ@res@up=\dimen325
+\pgf@circ@res@down=\dimen326
+\pgf@circ@res@zero=\dimen327
+\pgf@circ@res@left=\dimen328
+\pgf@circ@res@right=\dimen329
+\pgf@circ@res@other=\dimen330
+\pgf@circ@res@step=\dimen331
+\pgf@circ@res@temp=\dimen332
+\pgf@circ@Rlen=\dimen333
+\pgf@circ@scaled@Rlen=\dimen334
+\pgfstartlinewidth=\dimen335
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutil
+s.tex
+\ctikz@scratchbox=\box102
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath
+.tex
+\ctikz@vif@count=\count355
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshap
+es.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmono
+poles.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipo
+les.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctrip
+oles.tex
+\pgf@circ@res@count=\count356
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquad
+poles.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmult
+ipoles.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabe
+l.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvolt
+age.tex
+\pgfcirc@labelshift=\dimen336
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurr
+ent.tex)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow
+.tex))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip109
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen337
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count357
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count358
+\leftroot@=\count359
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count360
+\DOTSCASE@=\count361
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box103
+\strutbox@=\box104
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen338
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count362
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count363
+\dotsspace@=\muskip18
+\c@parentequation=\count364
+\dspbrk@lvl=\count365
+\tag@help=\toks39
+\row@=\count366
+\column@=\count367
+\maxfields@=\count368
+\andhelp@=\toks40
+\eqnshift@=\dimen339
+\alignsep@=\dimen340
+\tagshift@=\dimen341
+\tagwidth@=\dimen342
+\totwidth@=\dimen343
+\lineht@=\dimen344
+\@envbody=\toks41
+\multlinegap=\skip110
+\multlinetaggap=\skip111
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count369
+\float@exts=\toks43
+\float@box=\box105
+\@float@everytoks=\toks44
+\@floatcapt=\box106
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgfgantt\pgfgantt.sty
+Package: pgfgantt 2024/06/19 v5.0a Draw Gantt diagrams with TikZ
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen345
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box107
+\pgf@layerboxsaved@background=\box108
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+rypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfcalenda
+r.sty
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfcalen
+dar.code.tex
+File: pgfcalendar.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfcalendarcurrentjulian=\count370
+\pgf@cal@easter@Y=\count371
+\pgf@cal@easter@G=\count372
+\pgf@cal@easter@C=\count373
+\pgf@cal@easter@X=\count374
+\pgf@cal@easter@Z=\count375
+\pgf@cal@easter@D=\count376
+\pgf@cal@easter@E=\count377
+\pgf@cal@easter@N=\count378
+\pgf@cal@easter@M=\count379
+\pgf@cal@easter@julianday=\count380
+))
+\gtt@currentline=\count381
+\gtt@lasttitleline=\count382
+\gtt@currgrid=\count383
+\gtt@chartwidth=\count384
+\gtt@lasttitleslot=\count385
+\gtt@elementid=\count386
+\gtt@today@slot=\count387
+\gtt@startjulian=\count388
+\gtt@endjulian=\count389
+\gtt@chartid=\count390
+\gtt@vrule@slot=\count391
+\gtt@calendar@slots=\count392
+\gtt@calendar@weeknumber=\count393
+\gtt@calendar@startofweek=\count394
+\gtt@left@slot=\count395
+\gtt@right@slot=\count396
+)
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 40.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen346
+\TX@old@table=\dimen347
+\TX@old@col=\dimen348
+\TX@target=\dimen349
+\TX@delta=\dimen350
+\TX@cols=\count397
+\TX@ftn=\toks45
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 69.
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 100.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count398
+) (FPY_report.aux
+
+LaTeX Warning: Label `tab:ade30' multiply defined.
+
+)
+\openout1 = `FPY_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count399
+\scratchdimen=\dimen351
+\scratchbox=\box109
+\nofMPsegments=\count400
+\nofMParguments=\count401
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count402
+\MPscratchDim=\dimen352
+\MPnumerator=\count403
+\makeMPintoPDFobject=\count404
+\everyMPtoPDFconversion=\toks47
+)
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 434.90039pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=434.90039pt
+* \textheight=700.50687pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-40.0pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 100.
+(FPY_report.out) (FPY_report.out)
+\@outlinefile=\write4
+\openout4 = `FPY_report.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\trans
+lations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 100.
+<cust_logo.png.png, id=444, 301.125pt x 301.125pt>
+File: cust_logo.png.png Graphic file (type png)
+<use cust_logo.png.png>
+Package pdftex.def Info: cust_logo.png.png  used on input line 115.
+(pdftex.def)             Requested size: 130.47144pt x 130.4737pt.
+ [1
+
+{C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./cust_logo.p
+ng.png>] [2] [3
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 190
+.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 190
+.
+
+(C:\Users\DELL\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[4
+
+] [5
+
+] [6
+
+] [7
+
+] (FPY_report.toc)
+\tf@toc=\write5
+\openout5 = `FPY_report.toc'.
+
+ [8
+
+] (FPY_report.lof)
+\tf@lof=\write6
+\openout6 = `FPY_report.lof'.
+
+ [9
+
+] (FPY_report.lot)
+\tf@lot=\write7
+\openout7 = `FPY_report.lot'.
+
+
+[10
+
+] [11
+
+
+] [12] [13] [14]
+Chapter 1.
+[18
+
+] [19]
+Overfull \hbox (2.9455pt too wide) in paragraph at lines 505--507
+[]\T1/cmr/m/n/12 where the base-band noise-modulated sig-nal is ap-plied to the
+ intermediate-frequency
+ []
+
+[20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]|\T1/cmr/m/n/12 2.4 GHz di-rec-tional an-tenna (patch/array),
+ []
+
+<image1.png, id=575, 229.3368pt x 172.0026pt>
+File: image1.png Graphic file (type png)
+<use image1.png>
+Package pdftex.def Info: image1.png  used on input line 591.
+(pdftex.def)             Requested size: 304.42894pt x 228.34326pt.
+[23]
+<image2.png, id=582, 250.0542pt x 187.4202pt>
+File: image2.png Graphic file (type png)
+<use image2.png>
+Package pdftex.def Info: image2.png  used on input line 598.
+(pdftex.def)             Requested size: 304.42894pt x 228.19473pt.
+
+Underfull \hbox (badness 2582) in paragraph at lines 634--634
+[]|\T1/cmr/m/n/12 Time-domain ver-i-fi-ca-tion of base-band,
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 634--634
+[]|\T1/cmr/m/n/12 Digital pseudo-random base-band noise
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 634--634
+[]|\T1/cmr/m/n/12 Frequency up-con-ver-sion (base-band to
+ []
+
+[24 <./image1.png> <./image2.png>] [25] [26] [27]
+Overfull \hbox (0.5235pt too wide) in paragraph at lines 670--670
+[]|\T1/cmr/bx/n/12 Report(s)| 
+ []
+
+
+Overfull \hbox (1.03815pt too wide) in alignment at lines 667--672
+ [] [] [] 
+ []
+
+
+Overfull \hbox (0.5235pt too wide) in paragraph at lines 675--675
+[]|\T1/cmr/bx/n/12 Report(s)| 
+ []
+
+
+Overfull \hbox (1.03815pt too wide) in alignment at lines 672--677
+ [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 696--697
+[]|\T1/cmr/m/n/12 Procurement of core wideband-prototype hard-ware:
+ []
+
+
+Overfull \hbox (1.03815pt too wide) in alignment at lines 677--719
+ [] [] [] 
+ []
+
+[28]
+Overfull \hbox (27.6645pt too wide) in alignment at lines 720--726
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (27.6645pt too wide) in alignment at lines 726--731
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--734
+[]|\T1/cmr/m/n/12 Research and com-pare
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 734--734
+\T1/cmr/m/n/12 noise-on-carrier gen-er-a-tion
+ []
+
+
+Underfull \hbox (badness 5607) in paragraph at lines 735--736
+[]|\T1/cmr/m/n/12 Selected base-band mod-u-la-tion
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 735--736
+\T1/cmr/m/n/12 chi-tec-ture; de-fined key per-for-
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 735--736
+\T1/cmr/m/n/12 mance met-rics (PSD flat-ness,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 735--736
+\T1/cmr/m/n/12 band-width, NPR, car-rier sup-
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 739--739
+\T1/cmr/m/n/12 build ini-tial Zener noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+[]|\T1/cmr/m/n/12 Implemented LFSR PN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+\T1/cmr/m/n/12 spreading the-ory; re-viewed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+\T1/cmr/m/n/12 bar-rage/DSSS/CDMA tech-
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 740--741
+\T1/cmr/m/n/12 a Zener-diode wide-band noise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--743
+[]|\T1/cmr/m/n/12 Sep--Dec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+[]|\T1/cmr/m/n/12 Narrowband (320 kHz)
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 745--746
+\T1/cmr/m/n/12 source; de-signed PN-sequence
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 749--749
+[]|\T1/cmr/m/n/12 Finalize noise source; in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--749
+\T1/cmr/m/n/12 stru-ment PN gen-er-a-tor;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--749
+\T1/cmr/m/n/12 source ana-log mul-ti-plier
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 749--749
+\T1/cmr/m/n/12 and mixer-based spread-
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 749--749
+\T1/cmr/m/n/12 ing/upconversion plan for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\T1/cmr/m/n/12 Hardware re-search and
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 755--756
+[]|\T1/cmr/m/n/12 Ordered Teensy 4.1, AD834,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--756
+\T1/cmr/m/n/12 ADL5801, HMC219, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--758
+[]|\T1/cmr/m/n/12 Jan--Feb
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--761
+[]|\T1/cmr/m/n/12 Verified fre-quency trans-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
+[]|\T1/cmr/m/n/12 Verified pseudo-random out-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 770--771
+\T1/cmr/m/n/12 put on Ver-ilog hard-ware via
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 770--771
+\T1/cmr/m/n/12 LED; doc-u-mented ap-pli-ca-tions
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 770--771
+\T1/cmr/m/n/12 (CDMA, cryp-tog-ra-phy, BIST)
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 770--771
+\T1/cmr/m/n/12 and lim-i-ta-tions of LFSR-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 773--773
+[]|\T1/cmr/m/n/12 Mar--Apr
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 775--776
+\T1/cmr/m/n/12 ming; pro-posed a 41.75 MHz
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 779--779
+\T1/cmr/m/n/12 ing and return-loss op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+[]|\T1/cmr/m/n/12 Apr--May
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 785--786
+[]|\T1/cmr/m/n/12 Verified sta-ble AM-modulated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--788
+[]|\T1/cmr/m/n/12 May--Jun
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 795--796
+[]|\T1/cmr/m/n/12 Completed hard-ware as-sem-bly;
+ []
+
+
+Overfull \hbox (27.6645pt too wide) in alignment at lines 731--798
+ [] [] [] [] 
+ []
+
+[29] [30]
+Underfull \hbox (badness 5533) in paragraph at lines 826--826
+[]|\T1/cmr/m/n/12 Industry, In-no-va-tion
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 826--826
+[]|\T1/cmr/m/n/12 Peace, Jus-tice and
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 858--858
+[]|\T1/cmr/m/n/12 Mohammad Has-nain
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 858--858
+[]|\T1/cmr/m/n/12 RF mixer/upconversion stage and RF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--858
+[]|\T1/cmr/m/n/12 Mahroona Mariam
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 858--858
+[]|\T1/cmr/m/n/12 Antenna de-sign, impedance match-ing,
+ []
+
+[31] [32] [33] [34]
+Chapter 2.
+[35
+
+] [36]
+Overfull \hbox (55.70148pt too wide) in paragraph at lines 963--964
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `ref1' on page 37 undefined on input line 964.
+
+
+LaTeX Warning: Citation `ref4' on page 37 undefined on input line 964.
+
+
+LaTeX Warning: Citation `ref5' on page 37 undefined on input line 964.
+
+
+LaTeX Warning: Citation `ref1' on page 37 undefined on input line 964.
+
+
+LaTeX Warning: Citation `ref4' on page 37 undefined on input line 964.
+
+
+LaTeX Warning: Citation `ref5' on page 37 undefined on input line 964.
+
+[37] [38] [39] [40]
+Overfull \hbox (12.07973pt too wide) in paragraph at lines 1023--1023
+|[]\T1/cmr/bx/n/14.4 Spread-Spectrum Tech-niques and Pseudo-Noise Se-quences| 
+ []
+
+
+LaTeX Warning: Citation `ref7' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref8' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref9' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref7' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref8' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref9' on page 41 undefined on input line 1025.
+
+
+LaTeX Warning: Citation `ref10' on page 41 undefined on input line 1025.
+
+[41]
+
+LaTeX Warning: Citation `ref7' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref8' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref9' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref7' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref8' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref9' on page 42 undefined on input line 1048.
+
+
+LaTeX Warning: Citation `ref7' on page 42 undefined on input line 1051.
+
+
+LaTeX Warning: Citation `ref7' on page 42 undefined on input line 1051.
+
+
+LaTeX Warning: Citation `ref8' on page 42 undefined on input line 1051.
+
+[42]
+
+LaTeX Warning: Citation `ref10)- quantifies how much spreading value a system p
+rovides' on page 43 undefined on input line 1053.
+
+
+LaTeX Warning: Citation `defined as the spread band width divided by the origin
+al signal bandwidth in dB.' on page 43 undefined on input line 1053.
+
+
+LaTeX Warning: Citation `ref11' on page 43 undefined on input line 1061.
+
+
+LaTeX Warning: Citation `ref16' on page 43 undefined on input line 1065.
+
+
+LaTeX Warning: Citation `ref17' on page 43 undefined on input line 1065.
+
+
+LaTeX Warning: Citation `ref17' on page 43 undefined on input line 1067.
+
+[43]
+
+LaTeX Warning: Citation `ref16' on page 44 undefined on input line 1071.
+
+[44] [45]
+Overfull \hbox (7.90123pt too wide) in paragraph at lines 1090--1090
+|[]\T1/cmr/bx/n/14.4 Related Tech-nol-ogy 1: Com-mer-cial and Mil-i-tary Counte
+r-
+ []
+
+
+LaTeX Warning: Citation `ref13' on page 46 undefined on input line 1091.
+
+
+LaTeX Warning: Citation `ref11' on page 46 undefined on input line 1091.
+
+
+LaTeX Warning: Citation `ref12' on page 46 undefined on input line 1091.
+
+
+LaTeX Warning: Citation `ref13' on page 46 undefined on input line 1091.
+
+
+LaTeX Warning: Reference `sec:background' on page 46 undefined on input line 10
+91.
+
+[46]
+
+LaTeX Warning: Citation `ref29' on page 47 undefined on input line 1107.
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 1107--1107
+[]|\T1/cmr/m/n/12 Handheld jam-mer
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 1107--1107
+[]|\T1/cmr/m/n/12 2.4/5.8 GHz,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1107
+[]|\T1/cmr/m/n/12 30--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1108
+[]|\T1/cmr/m/n/12 Directional,
+ []
+
+
+LaTeX Warning: Citation `ref31' on page 47 undefined on input line 1108.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1108
+[]|\T1/cmr/m/n/12 Backpack multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1108
+[]|\T1/cmr/m/n/12 433 MHz--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+[]|\T1/cmr/m/n/12 High-gain
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 1108--1109
+\T1/cmr/m/n/12 di-rec-tional +
+ []
+
+
+LaTeX Warning: Citation `ref11' on page 47 undefined on input line 1109.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1109
+[]|\T1/cmr/m/n/12 Mid-tier di-rec-
+ []
+
+
+LaTeX Warning: Citation `ref12' on page 47 undefined on input line 1110.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1110
+[]|\T1/cmr/m/n/12 Detect-then-jam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1110
+\T1/cmr/m/n/12 sys-tem (CA-
+ []
+
+
+Overfull \hbox (22.42055pt too wide) in paragraph at lines 1110--1110
+\T1/cmr/m/n/12 DENCE/Music ON) [[]]| 
+ []
+
+
+Overfull \hbox (8.65523pt too wide) in paragraph at lines 1110--1110
+[]|\T1/cmr/m/n/12 2.4/5.2/5.8 GHz| 
+ []
+
+
+Overfull \hbox (8.90514pt too wide) in paragraph at lines 1110--1111
+[]|\T1/cmr/m/n/12 Omnidirectional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+[]|\T1/cmr/bx/n/12 This project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+[]|\T1/cmr/m/n/12 2.4 GHz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+\T1/cmr/m/n/12 (5.8 GHz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+[]|$\OMS/cmsy/m/n/12 ^^X$\T1/cmr/m/n/12 20--25 dB
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1111
+\T1/cmr/m/n/12 over mixer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1112
+[]|\T1/cmr/m/n/12 Single-stub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1112
+\T1/cmr/m/n/12 matched
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1111--1112
+\T1/cmr/m/n/12 di-rec-tional
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47] [48]
+Chapter 3.
+
+Overfull \hbox (23.14474pt too wide) in paragraph at lines 1119--1119
+|\T1/cmr/bx/n/24.88 PROJECT DE-SIGN AND IM-PLE-MEN-
+ []
+
+[49
+
+] [50] [51] [52]
+Overfull \hbox (22.77843pt too wide) in paragraph at lines 1287--1288
+ [][] 
+ []
+
+[53] [54] [55] [56]
+Overfull \hbox (5.74745pt too wide) in paragraph at lines 1358--1359
+\T1/cmr/m/n/12 The am-pli-tude mod-u-la-tion stage trans-fers the sta-tis-ti-ca
+l char-ac-ter-is-tics of the avalanche
+ []
+
+[57] [58]
+Underfull \hbox (badness 1558) in paragraph at lines 1539--1540
+[]|\T1/cmr/m/n/12 ADE-30 Dou-ble Bal-anced
+ []
+
+[59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
+Overfull \hbox (9.53255pt too wide) in paragraph at lines 2164--2165
+\T1/cmr/m/n/12 through sig-nal con-di-tion-ing, am-pli-tude mod-u-la-tion, mi-c
+rowave fre-quency up-conversion,
+ []
+
+[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
+[89] [90] [91] [92] [93] [94] [95]
+Overfull \hbox (11.7502pt too wide) in paragraph at lines 3228--3229
+[]\T1/cmr/m/n/12 This re-la-tion-ship es-tab-lishes the ba-sic math-e-mat-ics o
+f the pro-posed RF up-conversion
+ []
+
+[96] [97] [98] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 3497--3497
+[]|\T1/cmr/m/n/12 Passive Double-
+ []
+
+[100] [101] [102] [103] [104] [105] [106]
+Underfull \hbox (badness 10000) in paragraph at lines 3829--3830
+[]|\T1/cmr/m/n/12 Microwave Uni-di-rec-tional
+ []
+
+[107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
+[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129]
+Chapter 4.
+<zener_diode.png, id=1240, 1003.75pt x 752.8125pt>
+File: zener_diode.png Graphic file (type png)
+<use zener_diode.png>
+Package pdftex.def Info: zener_diode.png  used on input line 4650.
+(pdftex.def)             Requested size: 304.42894pt x 228.32668pt.
+[130
+
+]
+<resistor.png, id=1247, 453.695pt x 443.6575pt>
+File: resistor.png Graphic file (type png)
+<use resistor.png>
+Package pdftex.def Info: resistor.png  used on input line 4676.
+(pdftex.def)             Requested size: 304.42894pt x 297.69577pt.
+ [131 <./zener_diode.png>]
+<capacitor.png, id=1254, 448.67625pt x 448.67625pt>
+File: capacitor.png Graphic file (type png)
+<use capacitor.png>
+Package pdftex.def Info: capacitor.png  used on input line 4703.
+(pdftex.def)             Requested size: 304.42894pt x 304.43857pt.
+ [132 <./resistor.png>]
+<ad834.png, id=1261, 351.3125pt x 223.83624pt>
+File: ad834.png Graphic file (type png)
+<use ad834.png>
+Package pdftex.def Info: ad834.png  used on input line 4730.
+(pdftex.def)             Requested size: 304.42894pt x 193.98114pt.
+ [133 <./capacitor.png>]
+<ms3000.png, id=1268, 211.38976pt x 175.857pt>
+File: ms3000.png Graphic file (type png)
+<use ms3000.png>
+Package pdftex.def Info: ms3000.png  used on input line 4757.
+(pdftex.def)             Requested size: 304.42894pt x 253.27412pt.
+
+[134 <./ad834.png>]
+Underfull \hbox (badness 4621) in paragraph at lines 4778--4779
+[]|\T1/cmr/m/n/12 Passive Dou-ble Bal-anced
+ []
+
+<ade30.png, id=1275, 411.136pt x 308.352pt>
+File: ade30.png Graphic file (type png)
+<use ade30.png>
+Package pdftex.def Info: ade30.png  used on input line 4785.
+(pdftex.def)             Requested size: 304.42894pt x 228.32275pt.
+[135 <./ms3000.png>]
+<hmc219.png, id=1283, 1607.00375pt x 1607.00375pt>
+File: hmc219.png Graphic file (type png)
+<use hmc219.png>
+Package pdftex.def Info: hmc219.png  used on input line 4814.
+(pdftex.def)             Requested size: 304.42894pt x 304.42662pt.
+ [136 <./ade30.png>]
+<rf2126.png, id=1291, 1607.00375pt x 1607.00375pt>
+File: rf2126.png Graphic file (type png)
+<use rf2126.png>
+Package pdftex.def Info: rf2126.png  used on input line 4842.
+(pdftex.def)             Requested size: 304.42894pt x 304.42662pt.
+ [137 <./hmc219.png>]
+!pdfTeX error: pdflatex.exe (file ./se5004.png): libpng: internal error
+ ==> Fatal error occurred, no output PDF file produced!
