@@ -1,0 +1,220 @@
+\contentsline {chapter}{DEDICATION}{iii}{chapter*.1}%
+\contentsline {chapter}{DECLARATION}{iv}{chapter*.2}%
+\contentsline {chapter}{CERTIFICATE OF APPROVAL}{v}{chapter*.3}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{vi}{chapter*.4}%
+\contentsline {chapter}{ABSTRACT}{vii}{chapter*.5}%
+\contentsline {chapter}{LIST OF FIGURES}{xii}{chapter*.5}%
+\contentsline {chapter}{LIST OF TABLES}{xiii}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Introduction}{18}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Overview}{18}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Project idea}{19}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Purpose of the Project}{21}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Project Specifications}{22}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Applications of the Project}{24}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Physical Security and Anti-Surveillance}{25}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Counter-Drone (Anti-UAV) Applications}{25}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Research and Academic Use}{26}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Event and Facility Spectrum Protection}{26}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Electronic Warfare and Defense-Support Research}{26}{subsection.1.5.5}%
+\contentsline {section}{\numberline {1.6}Project Plan}{27}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Project Milestones}{27}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Targeted Sustainable Development Goals}{31}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Team Composition and Responsibilities}{31}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Project Timeline}{32}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Report Organization}{33}{subsection.1.6.5}%
+\contentsline {chapter}{\numberline {2}Literature Review}{35}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Background Theory}{35}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}What Jamming Actually Is}{35}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Noise as an Interferer}{39}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Amplitude Modulation and the Role of the Sawtooth Carrier}{40}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Frequency Conversion: Mixers, Local Oscillators, and the Mixing Equation}{40}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}RF Power Amplification}{41}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Spread-Spectrum Techniques and Pseudo-Noise Sequences}{41}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Antenna Fundamentals, Directionality, and Impedance Matching}{43}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Measurement and Verification Methodology}{44}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Summary of the Theoretical Foundation}{45}{subsection.2.1.9}%
+\contentsline {section}{\numberline {2.2}Related Technologies}{45}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Related Technology 1: Commercial and Military Counter-UAS Jamming Systems}{46}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Related Technology 2: Software-Defined-Radio (SDR) Jamming Platforms}{48}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}PROJECT DESIGN AND IMPLEMENTATION}{49}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Proposed Design Methodology}{49}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{49}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Engineering Objectives}{50}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Design Philosophy}{52}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Overall System Architecture}{53}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Overall Signal Flow}{55}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Functional Description of Individual Hardware Blocks}{56}{subsection.3.1.6}%
+\contentsline {subsubsection}{Signal Conditioning Stage}{57}{subsubsection*.18}%
+\contentsline {subsubsection}{Amplitude Modulation Stage}{57}{subsubsection*.19}%
+\contentsline {subsubsection}{Frequency Up-Conversion Stage}{58}{subsubsection*.20}%
+\contentsline {subsubsection}{RF Power Amplification Stage}{58}{subsubsection*.21}%
+\contentsline {subsubsection}{Antenna Radiation Stage}{59}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {3.1.7}Proposed Design Methodology}{59}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}Design Requirements}{59}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Design Assumptions}{61}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}Frequency Planning}{62}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}Impedance Planning}{63}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}Power Budget Planning}{64}{subsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.1.13}Design Verification Strategy}{65}{subsection.3.1.13}%
+\contentsline {subsubsection}{Noise Source Verification}{65}{subsubsection*.26}%
+\contentsline {subsubsection}{Signal Conditioning Verification}{65}{subsubsection*.27}%
+\contentsline {subsubsection}{AM Modulator Verification}{65}{subsubsection*.28}%
+\contentsline {subsubsection}{Mixer Verification}{65}{subsubsection*.29}%
+\contentsline {subsubsection}{RF Amplifier Verification}{65}{subsubsection*.30}%
+\contentsline {subsubsection}{Antenna Verification}{66}{subsubsection*.31}%
+\contentsline {subsection}{\numberline {3.1.14}Component Selection Methodology}{66}{subsection.3.1.14}%
+\contentsline {subsubsection}{Selection of the Zener Diode}{67}{subsubsection*.32}%
+\contentsline {subsubsection}{Selection of the Bias Resistor}{67}{subsubsection*.33}%
+\contentsline {subsubsection}{Selection of the Coupling Capacitor}{68}{subsubsection*.34}%
+\contentsline {subsubsection}{Selection of ADE-30 Mixer}{69}{subsubsection*.35}%
+\contentsline {subsubsection}{Selection of MS-3000 VCO}{69}{subsubsection*.37}%
+\contentsline {subsubsection}{Selection of RF2126 Power Amplifier}{70}{subsubsection*.38}%
+\contentsline {subsubsection}{Selection of Directional Antenna}{71}{subsubsection*.39}%
+\contentsline {subsection}{\numberline {3.1.15}Engineering Design Constraints}{72}{subsection.3.1.15}%
+\contentsline {subsubsection}{Power Limitation}{72}{subsubsection*.41}%
+\contentsline {subsubsection}{Impedance Matching}{72}{subsubsection*.42}%
+\contentsline {subsubsection}{PCB Layout}{72}{subsubsection*.43}%
+\contentsline {subsubsection}{Thermal Management}{73}{subsubsection*.44}%
+\contentsline {subsection}{\numberline {3.1.16}Summary}{73}{subsection.3.1.16}%
+\contentsline {section}{\numberline {3.2}Design of the Project Hardware/Software }{74}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{74}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Design of Avalanche Noise Generator}{75}{subsection.3.2.2}%
+\contentsline {subsubsection}{Introduction}{75}{subsubsection*.45}%
+\contentsline {subsubsection}{Principle of Avalanche Breakdown}{75}{subsubsection*.46}%
+\contentsline {subsubsection}{Circuit Design}{76}{subsubsection*.47}%
+\contentsline {subsubsection}{Design of the Biasing Resistor}{76}{subsubsection*.49}%
+\contentsline {subsubsection}{Power Dissipation Analysis}{77}{subsubsection*.50}%
+\contentsline {subsubsection}{Small-Signal Noise Considerations}{77}{subsubsection*.51}%
+\contentsline {subsubsection}{Design Considerations}{78}{subsubsection*.52}%
+\contentsline {subsection}{\numberline {3.2.3}Design of the Signal Conditioning Circuit}{79}{subsection.3.2.3}%
+\contentsline {subsubsection}{Introduction}{79}{subsubsection*.53}%
+\contentsline {subsubsection}{Operating Principle of the Coupling Capacitor}{79}{subsubsection*.54}%
+\contentsline {subsubsection}{Capacitor Selection}{80}{subsubsection*.55}%
+\contentsline {subsubsection}{Capacitive Reactance Analysis}{80}{subsubsection*.56}%
+\contentsline {subsubsection}{High-Pass Filter Analysis}{82}{subsubsection*.58}%
+\contentsline {subsubsection}{Time Constant Analysis}{82}{subsubsection*.59}%
+\contentsline {subsection}{\numberline {3.2.4}Noise Signal Integrity}{83}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Practical PCB Design Considerations}{83}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Signal Conditioning Stage Advantages}{84}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Conclusion}{84}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}Design of the Amplitude Modulation (AM) Circuit}{84}{subsection.3.2.8}%
+\contentsline {subsubsection}{Introduction}{84}{subsubsection*.60}%
+\contentsline {subsubsection}{Principle of Amplitude Modulation}{85}{subsubsection*.61}%
+\contentsline {subsubsection}{Carrier Signal Design}{86}{subsubsection*.62}%
+\contentsline {subsubsection}{Message Signal Design}{87}{subsubsection*.63}%
+\contentsline {subsubsection}{Circuit Design of the AM Modulator}{87}{subsubsection*.64}%
+\contentsline {subsubsection}{Modulation Index Calculation}{88}{subsubsection*.66}%
+\contentsline {subsubsection}{Envelope Analysis}{89}{subsubsection*.67}%
+\contentsline {subsubsection}{Frequency Spectrum}{89}{subsubsection*.68}%
+\contentsline {subsubsection}{Bandwidth Calculation}{89}{subsubsection*.69}%
+\contentsline {subsubsection}{Power Analysis}{90}{subsubsection*.70}%
+\contentsline {subsubsection}{Practical Implementation of the AM Modulator}{90}{subsubsection*.71}%
+\contentsline {subsubsection}{Mathematical Model of the AM Signal}{91}{subsubsection*.72}%
+\contentsline {subsubsection}{Envelope Characteristics}{92}{subsubsection*.73}%
+\contentsline {subsubsection}{Modulation Index Design}{92}{subsubsection*.74}%
+\contentsline {subsubsection}{AM Power Analysis}{93}{subsubsection*.75}%
+\contentsline {subsubsection}{Frequency Spectrum Analysis}{93}{subsubsection*.76}%
+\contentsline {subsubsection}{Oscilloscope Verification}{94}{subsubsection*.77}%
+\contentsline {subsubsection}{PCB Design Considerations}{94}{subsubsection*.78}%
+\contentsline {subsubsection}{Summary}{95}{subsubsection*.79}%
+\contentsline {subsection}{\numberline {3.2.9}Design of the Frequency Up-Conversion Stage (ADE-30 and HMC219 Mixers)}{95}{subsection.3.2.9}%
+\contentsline {subsubsection}{Introduction}{95}{subsubsection*.80}%
+\contentsline {subsubsection}{Operating Principle of Frequency Mixing}{95}{subsubsection*.81}%
+\contentsline {subsubsection}{Dual-Band Mixer Architecture}{96}{subsubsection*.82}%
+\contentsline {subsubsection}{Design of the 2.4 GHz Mixing Stage (ADE-30)}{97}{subsubsection*.84}%
+\contentsline {subsubsection}{ADE-30 LO Drive Calculation}{97}{subsubsection*.85}%
+\contentsline {subsubsection}{Design of the 5.8 GHz Mixing Stage (HMC219)}{98}{subsubsection*.86}%
+\contentsline {subsubsection}{HMC219 LO Drive Calculation}{99}{subsubsection*.87}%
+\contentsline {subsubsection}{Conversion Loss Analysis}{99}{subsubsection*.88}%
+\contentsline {subsubsection}{Impedance Matching}{100}{subsubsection*.89}%
+\contentsline {subsubsection}{Design Justification}{100}{subsubsection*.90}%
+\contentsline {subsection}{\numberline {3.2.10}Design of the Local Oscillator (MS-3000 Voltage Controlled Oscillator)}{101}{subsection.3.2.10}%
+\contentsline {subsubsection}{Introduction}{101}{subsubsection*.92}%
+\contentsline {subsubsection}{Function of the Local Oscillator}{101}{subsubsection*.93}%
+\contentsline {subsubsection}{Operating Principle of a Voltage Controlled Oscillator}{101}{subsubsection*.94}%
+\contentsline {subsubsection}{MS-3000 VCO Specifications}{102}{subsubsection*.95}%
+\contentsline {subsubsection}{Frequency Selection for the 2.4 GHz Band}{102}{subsubsection*.97}%
+\contentsline {subsubsection}{Output Power Analysis}{103}{subsubsection*.98}%
+\contentsline {subsubsection}{LO Drive Margin Calculation}{103}{subsubsection*.99}%
+\contentsline {subsubsection}{Frequency Stability}{104}{subsubsection*.100}%
+\contentsline {subsubsection}{Phase Noise Considerations}{104}{subsubsection*.101}%
+\contentsline {subsubsection}{Impedance Matching}{104}{subsubsection*.102}%
+\contentsline {subsubsection}{PCB Layout Considerations}{105}{subsubsection*.103}%
+\contentsline {subsubsection}{Design Summary}{105}{subsubsection*.104}%
+\contentsline {subsection}{\numberline {3.2.11}Design of the 5.8 GHz RF Power Amplifier Stage}{105}{subsection.3.2.11}%
+\contentsline {subsubsection}{Introduction}{105}{subsubsection*.105}%
+\contentsline {subsubsection}{Purpose of the RF Power Amplifier}{106}{subsubsection*.106}%
+\contentsline {subsubsection}{Operating Principle}{107}{subsubsection*.107}%
+\contentsline {subsubsection}{Electrical Specifications}{107}{subsubsection*.108}%
+\contentsline {subsubsection}{Gain Calculation}{107}{subsubsection*.110}%
+\contentsline {subsubsection}{Linear Power Gain}{108}{subsubsection*.111}%
+\contentsline {subsubsection}{Output Power Analysis}{108}{subsubsection*.112}%
+\contentsline {subsubsection}{DC Power Consumption}{109}{subsubsection*.113}%
+\contentsline {subsubsection}{Power Added Efficiency (PAE)}{109}{subsubsection*.114}%
+\contentsline {subsubsection}{Impedance Matching}{109}{subsubsection*.115}%
+\contentsline {subsubsection}{Thermal Design Considerations}{110}{subsubsection*.116}%
+\contentsline {subsubsection}{Design Summary}{110}{subsubsection*.117}%
+\contentsline {section}{\numberline {3.3}Analysis Procedure}{111}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Introduction}{111}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Noise Source Analysis}{112}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Intermediate Frequency Analysis}{113}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Frequency Conversion Analysis}{113}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}RF Power Stage Analysis}{114}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Impedance Matching Analysis}{115}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Antenna Performance Analysis}{115}{subsection.3.3.7}%
+\contentsline {subsubsection}{2.4 GHz Antenna}{115}{subsubsection*.118}%
+\contentsline {subsubsection}{5.8 GHz Antenna}{116}{subsubsection*.120}%
+\contentsline {subsection}{\numberline {3.3.8}Wavelength Analysis}{116}{subsection.3.3.8}%
+\contentsline {subsection}{\numberline {3.3.9}Radiation Characteristics}{117}{subsection.3.3.9}%
+\contentsline {subsubsection}{2.4 GHz Directional Antenna}{117}{subsubsection*.122}%
+\contentsline {subsubsection}{5.8 GHz Horn Antenna}{117}{subsubsection*.123}%
+\contentsline {subsection}{\numberline {3.3.10}Effective Isotropic Radiated Power Considerations}{118}{subsection.3.3.10}%
+\contentsline {section}{\numberline {3.4}Implementation Procedure}{118}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Introduction}{118}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Implementation of the Avalanche Noise Generator}{119}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Implementation of the Signal Conditioning Stage}{119}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Implementation of the Amplitude Modulation Stage}{120}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Implementation of the 2.4 GHz Frequency Conversion Path}{120}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Implementation of the 5.8 GHz Frequency Conversion Path}{121}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Implementation of RF Amplification Stages}{121}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Implementation of Antenna Subsystems}{122}{subsection.3.4.8}%
+\contentsline {subsubsection}{2.4 GHz Antenna Implementation}{122}{subsubsection*.124}%
+\contentsline {subsubsection}{5.8 GHz Horn Antenna Implementation}{122}{subsubsection*.126}%
+\contentsline {subsection}{\numberline {3.4.9}System Integration Procedure}{123}{subsection.3.4.9}%
+\contentsline {subsection}{\numberline {3.4.10}Verification Procedure}{123}{subsection.3.4.10}%
+\contentsline {subsubsection}{Stage 1}{123}{subsubsection*.129}%
+\contentsline {subsubsection}{Stage 2}{124}{subsubsection*.130}%
+\contentsline {subsubsection}{Stage 3}{124}{subsubsection*.131}%
+\contentsline {subsubsection}{Stage 4}{124}{subsubsection*.132}%
+\contentsline {subsubsection}{Stage 5}{124}{subsubsection*.133}%
+\contentsline {subsubsection}{Stage 6}{124}{subsubsection*.134}%
+\contentsline {subsubsection}{Stage 6: Impedance Match Verification}{124}{subsubsection*.135}%
+\contentsline {subsection}{\numberline {3.4.11}Summary}{125}{subsection.3.4.11}%
+\contentsline {section}{\numberline {3.5}Hardware Details}{125}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Introduction}{125}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Noise Generation Circuit}{125}{subsection.3.5.2}%
+\contentsline {subsubsection}{Hardware Components}{125}{subsubsection*.136}%
+\contentsline {subsubsection}{Required Figure}{126}{subsubsection*.138}%
+\contentsline {subsection}{\numberline {3.5.3}Signal Conditioning Circuit}{126}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Software Details}{126}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}VSWR Equation}{126}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Reflection Coefficient}{126}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Friis Transmission Equation}{127}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Summary}{127}{section.3.7}%
+\contentsline {chapter}{\numberline {4}TOOLS AND TECHNIQUES}{130}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Hardware Tools Used}{130}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}6.8V Zener Diode}{130}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Bias Resistor}{131}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Coupling Capacitor}{132}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}AD834 Analog Multiplier}{133}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}MS-3000 Voltage Controlled Oscillator}{134}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}ADE-30 Mixer}{135}{subsection.4.1.6}%
+\contentsline {subsection}{\numberline {4.1.7}HMC219 Mixer}{136}{subsection.4.1.7}%
+\contentsline {subsection}{\numberline {4.1.8}RF2126 Power Amplifier}{137}{subsection.4.1.8}%
+\contentsline {subsection}{\numberline {4.1.9}SE5004 Power Amplifier}{138}{subsection.4.1.9}%
+\contentsline {subsection}{\numberline {4.1.10}2.4 GHz Directional Antenna}{139}{subsection.4.1.10}%
+\contentsline {subsection}{\numberline {4.1.11}5.8 GHz Horn Antenna}{140}{subsection.4.1.11}%
+\contentsline {subsection}{\numberline {4.1.12}Digital Oscilloscope}{141}{subsection.4.1.12}%
+\contentsline {subsection}{\numberline {4.1.13}Spectrum Analyzer}{142}{subsection.4.1.13}%
+\contentsline {chapter}{\numberline {5}Results and Discussion}{144}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{145}{chapter.6}%

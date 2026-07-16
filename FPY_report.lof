@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Oscilloscope capture of the amplitude-modulated noise waveform (sawtooth carrier).}}{24}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Oscilloscope capture confirming RF output centered near 2.4 GHz after upconversion.}}{24}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Project Timeline (Gantt Chart) --- Part I (Reports 1--8) and Part II (Reports 9--14)}}{33}{figure.caption.13}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Taxonomy of intentional RF jamming techniques, after~\cite {ref1,ref4,ref5}}}{37}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Conceptual effect of DSSS spreading on signal bandwidth and power spectral density, after~\cite {ref7,ref8,ref9}}}{42}{figure.caption.15}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Complete RF Transmission Chain}}{54}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces System Design Flowchart}}{60}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Simplified Zener Noise Generator Circuit}}{76}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces AM Modulator Block Diagram}}{88}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Dual-Band RF Chain Block Diagram}}{97}{figure.caption.83}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Avalanche Noise Generator Circuit Diagram}}{126}{figure.caption.139}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 6.8 V Zener Diode Used for Avalanche Noise Generation}}{131}{figure.caption.141}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Current Limiting Resistor}}{132}{figure.caption.143}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 0.1 $\mu $F Ceramic Capacitor}}{133}{figure.caption.145}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces AD834 Analog Multiplier Module}}{134}{figure.caption.147}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces MS-3000 VCO Module}}{135}{figure.caption.149}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces ADE-30 Mixer Module}}{136}{figure.caption.151}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces HMC219 Microwave Mixer}}{137}{figure.caption.153}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces RF2126 Power Amplifier}}{138}{figure.caption.155}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces SE5004 Amplifier Module}}{139}{figure.caption.157}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 2.4 GHz Directional Antenna}}{140}{figure.caption.159}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 5.8 GHz Horn Antenna}}{141}{figure.caption.161}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Digital Oscilloscope Used During Testing}}{142}{figure.caption.163}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Spectrum Analyzer}}{143}{figure.caption.165}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
